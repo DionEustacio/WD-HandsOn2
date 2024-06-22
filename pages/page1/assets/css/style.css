@@ -90,7 +90,7 @@ body {
 
 /* Hero 1 */
 #hero-1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://wallpaperaccess.com/full/3826107.jpg") no-repeat center center / cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://wallpaperaccess.com/full/10536532.jpg") no-repeat center center / cover;
   color: #fff;
   animation: zoomIn 1s ease-in-out;
 }
@@ -118,7 +118,7 @@ body {
 
 /* Hero 2 */
 #hero-2 {
-  background: linear-gradient(135deg, #bac2ce 0%, #4285f4 50%, #030e1d 100%);
+  background: linear-gradient(135deg, #bac2ce 0%, #4285f4 50%, #030e1d 100%), url(https://wallpaperaccess.com/full/2052703.jpg);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -241,7 +241,7 @@ body {
 
 /* Hero 4 */
 #hero-4 {
-    background: url('https://getwallpapers.com/wallpaper/full/d/5/1/95558.jpg') no-repeat center center/cover;
+    background: url('https://wallpaperaccess.com/full/2052703.jpg') no-repeat center center/cover;
     color: #fff;
     animation: zoomIn 1s ease-in-out;
   }
@@ -253,7 +253,7 @@ body {
 #hero-4 .info h1 {
   font-size: 5rem;
   font-weight: 600;
-  color: #ffd700;
+  color: #ffd;
   margin-bottom: 1rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
