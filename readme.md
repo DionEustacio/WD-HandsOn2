@@ -9,11 +9,13 @@
     <img src="./assets/img/cat-1274094_1280.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Hands On 2</h3>
+  <h2 align="center">Hero & Card</h2>
 </div>
 <!-- TODO: Make a short description -->
+<h4 align="center">Hands On 2</h4>
 <div align="center">
-  Hands On 2
+  This website demonstrates a variety of hero sections and card designs, featuring both static and animated versions. All components are crafted using only HTML, CSS, and JavaScript, showcasing the power and flexibility of these core web technologies.
+  
 </div>
 
 <br />
@@ -117,4 +119,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Design The Perfect Hero Section (With Example) | Perfect Hero Section | https://youtu.be/LJbkLdtEW00?si=GGe7X-5HsvK0EkNn |
+| How to create a simple hero section with HTML & CSS | Here we showed how we can create a simple hero section using flex box and also some technique that can be helpful.| 
