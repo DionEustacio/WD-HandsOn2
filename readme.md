@@ -67,6 +67,14 @@ Guiding Question:
 - What are key components
 - What technology used and how it is used
 
+### How to Use
+1. Visit the [live demo](https://your-actual-deployment-url-here.com)
+2. On the landing page, you'll find navigation buttons to explore:
+   - Hero Gallery: Showcases 5 different hero section designs
+   - Card Gallery: Displays 5 static and 5 animated card designs
+3. Use the "Back to Home" link on each gallery page to return to the main page
+4. Interact with the animated cards to see their effects
+
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
@@ -79,6 +87,9 @@ Guiding Question:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Deployment
+This project is live and can be accessed at: [Hero & Card Live Demo](https://dioneustacio.github.io/WD-HandsOn2/)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
