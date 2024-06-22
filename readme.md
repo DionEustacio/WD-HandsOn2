@@ -120,4 +120,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Design The Perfect Hero Section (With Example) | Perfect Hero Section | https://youtu.be/LJbkLdtEW00?si=GGe7X-5HsvK0EkNn |
-| How to create a simple hero section with HTML & CSS | Here we showed how we can create a simple hero section using flex box and also some technique that can be helpful.| 
+| How to create a simple hero section with HTML & CSS | Here we showed how we can create a simple hero section using flex box and also some technique that can be helpful.| https://youtu.be/fs923Mu5EXY?si=3fUNkDDWhpOiDcZe
